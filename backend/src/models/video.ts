@@ -1,3 +1,4 @@
+/* Creating a schema for the video model. */
 import { Schema, model } from 'mongoose';
 
 const videoSchema= new Schema({
